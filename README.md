@@ -15,7 +15,7 @@ One of my primary interests is poker. I served as the **President** of **Univers
 
 **Poker**
 
-- [PokerKit](https://github.com/uoftcprg/pokerkit): An open-source Python library for poker simulations and hand evaluations
+- [PokerKit](https://github.com/uoftcprg/pokerkit): [IEEE ToG] An open-source Python library for poker simulations and hand evaluations
 - [Cardroom](https://github.com/uoftcprg/cardroom): Poker tournament and table management library
 - [LibrePoker](https://github.com/uoftcprg/librepoker): The web application for LibrePoker, offering a secure, minimalist, and user-friendly online poker game experience
 
