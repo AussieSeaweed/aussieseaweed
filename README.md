@@ -1,5 +1,3 @@
-As the **Lead Software Engineer** in **Blue Sky Solar Racing** (2023 - present), a student-run solar car engineering design team, I led the development of the software component of the team's electrical system. In the process, we developed various open-source programs and libraries that can be used by others.
-
 **Hardware**
 
 - [Revolution](https://github.com/blueskysolarracing/revolution): The software for the next generation electrical system for Blue Sky Solar Racing
@@ -10,8 +8,6 @@ As the **Lead Software Engineer** in **Blue Sky Solar Racing** (2023 - present),
 - [MCP23S17](https://github.com/blueskysolarracing/mcp23s17): A Python driver for Microchip Technology MCP23S17 16-Bit I/O Expander with Serial Interface
 - [NHD-C12864A1Z-FSW-FBW-HTT](https://github.com/blueskysolarracing/nhd-c12864a1z-fsw-fbw-htt): A Python driver for Newhaven Display Intl NHD-C12864A1Z-FSW-FBW-HTT COG (Chip-On-Glass) Liquid Crystal Display Module
 - [Borealis](https://github.com/blueskysolarracing/borealis): Blue Sky Solar Racing's Gen11 vehicle compute platform
-
-One of my primary interests is poker. I served as the **President** of **University of Toronto Poker Club** (2020 - 2023) and **Director** of **University of Toronto Computer Poker Research Group** (2023 - present), I exclusively developed or led the development of various open-source software projects related to poker, some of which have established widespread use in the computer poker community as the de-facto software solution. Their usages range from poker game simulation, hand evaluation, table management, to tournament management. Our online poker game platform LibrePoker, is used by the **University of Toronto Poker Club** to host various online events.
 
 **Poker**
 
