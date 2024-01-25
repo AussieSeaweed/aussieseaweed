@@ -7,10 +7,10 @@
 **Hardware**
 
 - [Revolution](https://github.com/blueskysolarracing/revolution): The software for the next generation electrical system for Blue Sky Solar Racing
-- [ICLib](https://github.com/blueskysolarracing/iclib): A collection of integrated circuit libraries in pure Python
 - [Door](https://github.com/blueskysolarracing/door): A comprehensive Python library for synchronization proxies
 - [Borealis](https://github.com/blueskysolarracing/borealis): Blue Sky Solar Racing's Gen11 vehicle compute platform
 
 **Miscellaneous**
 
 - [RITC](https://github.com/AussieSeaweed/ritc): A Python library for interacting with the Rotman Interactive Trader Market Simulator Client Application
+- [ICLib](https://github.com/blueskysolarracing/iclib): A collection of integrated circuit libraries in pure Python
