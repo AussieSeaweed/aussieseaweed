@@ -11,10 +11,6 @@
 - [Door](https://github.com/blueskysolarracing/door): A comprehensive Python library for synchronization proxies
 - [Borealis](https://github.com/blueskysolarracing/borealis): Blue Sky Solar Racing's Gen11 vehicle compute platform
 
-**AI**
-
-- [PadChannel](https://github.com/AussieSeaweed/pad-channel): Encoding padding statuses as an input channel for enhanced performance in convolutional neural networks
-
 **Miscellaneous**
 
 - [RITC](https://github.com/AussieSeaweed/ritc): A Python library for interacting with the Rotman Interactive Trader Market Simulator Client Application
