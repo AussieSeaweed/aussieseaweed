@@ -60,6 +60,7 @@
 **High School**
 
 - [Data Structure Visualization](https://github.com/AussieSeaweed/data-structure-visualization): A visualization of a binary search tree, created using processing
+- [Zombies and Monies](https://github.com/AussieSeaweed/zombies-and-monies): A top-down 2D zombie shooter game
 - [Tank Game Offline](https://github.com/AussieSeaweed/tank-game-offline): A top-down 2D tank shooter game
 - [Crimson](https://github.com/AussieSeaweed/crimson): A simple 3D object viewer
 - [Chess Classic](https://github.com/AussieSeaweed/chess-classic): A Modern Chess GUI
