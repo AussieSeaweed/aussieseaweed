@@ -1,4 +1,6 @@
-# Poker
+# University of Toronto Computer Poker Research Group
+
+- Director: May 2023 - Present
 
 **Projects**
 
@@ -28,6 +30,9 @@
 
 # Blue Sky Solar Racing
 
+- Software Lead: September 2023 - Present
+- Software Member: August 2022 - September 2023
+
 **GEN 12**
 
 - [Revolution](https://github.com/blueskysolarracing/revolution): The software for the next generation electrical system for Blue Sky Solar Racing
@@ -43,3 +48,9 @@
 # Personal
 
 - [RITC](https://github.com/AussieSeaweed/ritc): A Python library for interacting with the Rotman Interactive Trader Market Simulator Client Application
+- [Personal Website](https://github.com/AussieSeaweed/personal-website): My personal website
+- [Chess Classic](https://github.com/AussieSeaweed/chess-classic): A Modern Chess GUI
+- [math2](https://github.com/AussieSeaweed/math2): A Python package for various math functions
+- [crimson](https://github.com/AussieSeaweed/crimson): A simple 3D object viewer
+- [Snek AI](https://github.com/AussieSeaweed/snek-ai): An AI program that plays the snek game
+- [Data Structure Visualization](https://github.com/AussieSeaweed/data-structure-visualization): A visualization of a binary search tree, created using processing
