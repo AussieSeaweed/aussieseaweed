@@ -11,6 +11,8 @@
   - GitHub: https://github.com/uoftcprg/cardroom
 - Poker Hand History File Format Specification
   - GitHub: https://github.com/uoftcprg/phh-std
+- BitPoker: A Bittensor subnet for AI-driven poker decision-making
+  - GitHub: https://github.com/uoftcprg/bittensor
 
 **Datasets**
 
