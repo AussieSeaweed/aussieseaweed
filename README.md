@@ -1,3 +1,5 @@
+I write clean, organized, documented, tested, and, most importantly, intuitive code.
+
 # University of Toronto Computer Poker Research Group
 
 - Director: May 2023 - Present
