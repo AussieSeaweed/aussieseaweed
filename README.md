@@ -1,6 +1,7 @@
 I write clean, organized, documented, tested, and, most importantly, intuitive code.
+Big fan of vim (with default configs).
 
-# University of Toronto Computer Poker Research Group
+### University of Toronto Computer Poker Research Group
 
 - Director: May 2023 - Present
 
@@ -34,7 +35,7 @@ I write clean, organized, documented, tested, and, most importantly, intuitive c
   - GitHub: https://github.com/uoftcprg/uoftcprg-website
   - Link: https://uoftcprg.com/
 
-# Blue Sky Solar Racing
+### Blue Sky Solar Racing
 
 - Software Lead: September 2023 - Present
 - Software Member: August 2022 - September 2023
@@ -51,7 +52,7 @@ I write clean, organized, documented, tested, and, most importantly, intuitive c
 - [Borealis](https://github.com/blueskysolarracing/borealis): Blue Sky Solar Racing's Gen11 vehicle compute platform
 - [telem](https://github.com/blueskysolarracing/telem): BSSR Telem System boat v11.5
 
-# Personal
+### Personal
 
 - University of Toronto Engineering Science (Major in Machine Intelligence): September 2019 - Present
 - York Mills Collegiate Institute: September 2016 - May 2019
