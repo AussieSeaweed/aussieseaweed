@@ -1,5 +1,6 @@
 I write clean, organized, documented, tested, and, most importantly, intuitive code.
-Big fan of vim (with default configs).
+
+Big fan of Vim (with default configs).
 
 ### University of Toronto Computer Poker Research Group
 
