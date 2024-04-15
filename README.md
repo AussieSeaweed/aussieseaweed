@@ -18,7 +18,7 @@ I write clean, organized, documented, tested, and, most importantly, intuitive c
 
 **Datasets**
 
-- Poker Hand Strengths: A dataset of poker hand histories
+- Poker Hand Histories: A dataset of poker hand histories
   - GitHub: https://github.com/uoftcprg/phh-dataset
   - Zenodo: https://zenodo.org/doi/10.5281/zenodo.10797026
 - Poker Hand Strengths: A dataset of poker hand strengths
