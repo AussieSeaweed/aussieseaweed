@@ -16,6 +16,11 @@ Big fan of Vim (with default configs).
 - BitPoker: A Bittensor subnet for AI-driven poker decision-making
   - GitHub: https://github.com/uoftcprg/bitpoker
 
+**Standards**
+
+- Poker Hand History File Format Specification
+  - GitHub: https://github.com/uoftcprg/phh-std
+
 **Datasets**
 
 - Poker Hand Histories: A dataset of poker hand histories
@@ -24,11 +29,6 @@ Big fan of Vim (with default configs).
 - Poker Hand Strengths: A dataset of poker hand strengths
   - GitHub: https://github.com/uoftcprg/phs-dataset
   - Zenodo: https://zenodo.org/doi/10.5281/zenodo.10796885
-
-**Standards**
-
-- Poker Hand History File Format Specification
-  - GitHub: https://github.com/uoftcprg/phh-std
 
 **Websites**
 
