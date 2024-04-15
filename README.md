@@ -54,7 +54,6 @@ Big fan of Vim (with default configs).
 **GEN 11**
 
 - [Borealis](https://github.com/blueskysolarracing/borealis): Blue Sky Solar Racing's Gen11 vehicle compute platform
-- [telem](https://github.com/blueskysolarracing/telem): BSSR Telem System boat v11.5
 
 ### Personal
 
