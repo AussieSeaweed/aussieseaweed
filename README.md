@@ -2,6 +2,10 @@ I write clean, organized, documented, tested, and, most importantly, intuitive c
 
 Big fan of Vim (with default configs).
 
+- CV: https://github.com/AussieSeaweed/personal-cv/releases/latest/download/main.pdf
+- Projects: https://github.com/AussieSeaweed
+- Publications: https://scholar.google.com/citations?hl=en&user=iHbLHD0AAAAJ
+
 ### University of Toronto Computer Poker Research Group
 
 - Director: May 2023 - Present
