@@ -17,8 +17,6 @@ Big fan of Vim (with default configs).
   - Publication: https://doi.org/10.1109/TG.2023.3325637
 - Cardroom: A Django application for poker tournament and table management
   - GitHub: https://github.com/uoftcprg/cardroom
-- BitPoker: A Bittensor subnet for AI-driven poker decision-making
-  - GitHub: https://github.com/uoftcprg/bitpoker
 
 **Standards**
 
