@@ -57,7 +57,6 @@
 **University**
 
 - [RITC](https://github.com/AussieSeaweed/ritc): A Python library for interacting with the Rotman Interactive Trader Market Simulator Client Application
-- [Personal Website](https://github.com/AussieSeaweed/personal-website): My personal website
 - [math2](https://github.com/AussieSeaweed/math2): A Python package for various math functions
 - [Snek AI](https://github.com/AussieSeaweed/snek-ai): An AI program that plays the snek game
 
@@ -68,3 +67,7 @@
 - [Tank Game Offline](https://github.com/AussieSeaweed/tank-game-offline): A top-down 2D tank shooter game
 - [Crimson](https://github.com/AussieSeaweed/crimson): A simple 3D object viewer
 - [Chess Classic](https://github.com/AussieSeaweed/chess-classic): A Modern Chess GUI
+
+**Etc.**
+
+- [Personal Website](https://github.com/AussieSeaweed/personal-website): My personal website
