@@ -1,4 +1,4 @@
-Below are selections of some of the projects I have worked on. A complete list is available [here](VERBOSE.md).
+Below are selections of the projects I have worked on. A complete list is available [here](VERBOSE.md).
 
 **Projects**
 
