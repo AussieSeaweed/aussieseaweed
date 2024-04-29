@@ -40,14 +40,19 @@
 
 **GEN 12**
 
-- [Revolution](https://github.com/blueskysolarracing/revolution): The software for the next generation electrical system for Blue Sky Solar Racing
-- [BattLib](https://github.com/blueskysolarracing/iclib): A library for battery SOC calculation using EKF
-- [ICLib](https://github.com/blueskysolarracing/iclib): A collection of integrated circuit libraries in pure Python
-- [Door](https://github.com/blueskysolarracing/door): A comprehensive Python library for synchronization proxies
+- Revolution: The software for the next generation electrical system for Blue Sky Solar Racing
+  - GitHub: https://github.com/blueskysolarracing/revolution
+- BattLib: A library for battery SOC calculation using EKF
+  - GitHub: https://github.com/blueskysolarracing/iclib
+- ICLib: A collection of integrated circuit libraries in pure Python
+  - GitHub: https://github.com/blueskysolarracing/iclib
+- Door: A comprehensive Python library for synchronization proxies
+  - GitHub: https://github.com/blueskysolarracing/door
 
 **GEN 11**
 
-- [Borealis](https://github.com/blueskysolarracing/borealis): Blue Sky Solar Racing's Gen11 vehicle compute platform
+- Borealis: Blue Sky Solar Racing's Gen11 vehicle compute platform
+  - GitHub: https://github.com/blueskysolarracing/borealis
 
 ### Personal
 
@@ -56,18 +61,27 @@
 
 **University**
 
-- [RITC](https://github.com/AussieSeaweed/ritc): A Python library for interacting with the Rotman Interactive Trader Market Simulator Client Application
-- [math2](https://github.com/AussieSeaweed/math2): A Python package for various math functions
-- [Snek AI](https://github.com/AussieSeaweed/snek-ai): An AI program that plays the snek game
+- RITC: A Python library for interacting with the Rotman Interactive Trader Market Simulator Client Application
+  - GitHub: https://github.com/AussieSeaweed/ritc
+- math2: A Python package for various math functions
+  - GitHub: https://github.com/AussieSeaweed/math2
+- Snek AI: An AI program that plays the snek game
+  - GitHub: https://github.com/AussieSeaweed/snek-ai
 
 **High School**
 
-- [Data Structure Visualization](https://github.com/AussieSeaweed/data-structure-visualization): A visualization of a binary search tree, created using processing
-- [Zombies and Monies](https://github.com/AussieSeaweed/zombies-and-monies): A top-down 2D zombie shooter game
-- [Tank Game Offline](https://github.com/AussieSeaweed/tank-game-offline): A top-down 2D tank shooter game
-- [Crimson](https://github.com/AussieSeaweed/crimson): A simple 3D object viewer
-- [Chess Classic](https://github.com/AussieSeaweed/chess-classic): A Modern Chess GUI
+- Data Structure Visualization: A visualization of a binary search tree, created using processing
+  - GitHub: https://github.com/AussieSeaweed/data-structure-visualization
+- Zombies and Monies: A top-down 2D zombie shooter game
+  - GitHub: https://github.com/AussieSeaweed/zombies-and-monies
+- Tank Game Offline: A top-down 2D tank shooter game
+  - GitHub: https://github.com/AussieSeaweed/tank-game-offline
+- Crimson: A simple 3D object viewer
+  - GitHub: https://github.com/AussieSeaweed/crimson
+- Chess Classic: A Modern Chess GUI
+  - GitHub: https://github.com/AussieSeaweed/chess-classic
 
 **Etc.**
 
-- [Personal Website](https://github.com/AussieSeaweed/personal-website): My personal website
+- Personal Website: My personal website
+  - GitHub: https://github.com/AussieSeaweed/personal-website
