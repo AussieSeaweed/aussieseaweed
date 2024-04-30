@@ -1,3 +1,3 @@
-- Cymbol: A computer algebra system written in C++
+- Cymbolic: A computer algebra system written in C++
 - KyThon: Python interpreter written in Kotlin multiplatform
 - Multiverse Engine: A Physics Engine for Classical Mechanics with Arbitrary Number of Spatial and Temporal Dimensions
