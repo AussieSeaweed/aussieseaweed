@@ -1,4 +1,4 @@
-- Cym: A computer algebra system written in C built on top of GMP
+- Cym: A computer algebra system written in C
 - KyThon: Python interpreter written in Kotlin multiplatform
 - Multiverse: A Physics Engine for Classical Mechanics with Arbitrary Number of Spatial and Temporal Dimensions
 - pirate: A Docker container for executing Windows programs without risks of getting viruses or hacked
