@@ -11,8 +11,8 @@
   - GitHub: https://github.com/uoftcprg/cardroom
 - PokerCMD: Command line tools for poker-related calculations
   - GitHub: https://github.com/uoftcprg/pokercmd
-- PRiVaTe: Python implementations of variance reduction techniques for extensive-form games
-  - GitHub: https://github.com/uoftcprg/private
+- PVAT: Python implementations of variance reduction techniques for extensive-form games
+  - GitHub: https://github.com/uoftcprg/pvat
 
 **Standards**
 
