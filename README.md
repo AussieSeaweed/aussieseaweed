@@ -8,7 +8,7 @@ Below are selections of the projects I have worked on. A complete list is availa
 - Cardroom: A Django application for poker tournament and table management
   - GitHub: https://github.com/uoftcprg/cardroom
 - PVAT: Python implementations of variance reduction techniques for extensive-form games
-  - GitHub: https://github.com/uoftcprg/private
+  - GitHub: https://github.com/uoftcprg/pvat
 - Revolution: The software for the next generation electrical system for Blue Sky Solar Racing
   - GitHub: https://github.com/blueskysolarracing/revolution
 
