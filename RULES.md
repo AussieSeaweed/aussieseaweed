@@ -112,3 +112,4 @@ string = (
 ```
 
 4. Except in special cases (entrypoint function, etc.), keep function length short (i.e. below 15 lines).
+5. never copy paste (no copy-paste programming)
