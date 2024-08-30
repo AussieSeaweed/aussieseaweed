@@ -110,3 +110,5 @@ string = (
     ' Lorem ipsum, blah blah.'
 )
 ```
+
+4. Except in special cases (entrypoint function, etc.), keep function length short (i.e. below 15 lines).
