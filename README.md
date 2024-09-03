@@ -16,7 +16,7 @@ Below are selections of the projects I have worked on. A complete list is availa
 
 - Poker Hand History File Format Specification
   - GitHub: https://github.com/uoftcprg/phh-std
-  - Preprint: https://doi.org/10.48550/arXiv.2312.11753
+  - Publication: https://doi.org/10.1109/CoG60054.2024.10645611
 
 **Datasets**
 
