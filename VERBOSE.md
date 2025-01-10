@@ -7,6 +7,8 @@
 - PokerKit: An open-source Python library for poker game simulations and hand evaluations
   - GitHub: https://github.com/uoftcprg/pokerkit
   - Publication: https://doi.org/10.1109/TG.2023.3325637
+- GPUGT: GPU parallelizable implementation of counterfactual regret minimization
+  - GitHub: https://github.com/uoftcprg/gpugt
 - Cardroom: A Django application for poker tournament and table management
   - GitHub: https://github.com/uoftcprg/cardroom
 - PokerCMD: Command line tools for poker-related calculations
