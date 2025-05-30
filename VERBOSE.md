@@ -31,6 +31,9 @@
   - Zenodo: https://zenodo.org/doi/10.5281/zenodo.10796885
 - Poker Statistical Analyses: A dataset of poker statistical analysis calculations
   - GitHub: https://github.com/uoftcprg/psa-dataset
+- Poker Tournaments: A dataset of poker tournaments
+  - GitHub: https://github.com/uoftcprg/psa-dataset
+  - Zenodo: https://zenodo.org/records/15556775
 
 **Websites**
 
