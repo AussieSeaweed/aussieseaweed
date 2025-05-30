@@ -30,4 +30,4 @@ Below are selections of the projects I have worked on. A complete list is availa
   - Zenodo: https://zenodo.org/doi/10.5281/zenodo.10796885
 - Poker Tournaments: A dataset of poker tournaments
   - GitHub: https://github.com/uoftcprg/psa-dataset
-  - Zenodo: https://zenodo.org/records/15556775
+  - Zenodo: https://zenodo.org/records/15556774
