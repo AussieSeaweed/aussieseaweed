@@ -33,7 +33,7 @@
   - GitHub: https://github.com/uoftcprg/psa-dataset
 - Poker Tournaments: A dataset of poker tournaments
   - GitHub: https://github.com/uoftcprg/psa-dataset
-  - Zenodo: https://zenodo.org/records/15556775
+  - Zenodo: https://zenodo.org/records/15556774
 
 **Websites**
 
